@@ -259,6 +259,7 @@ body {
 .portfolio {
   margin: 0;
   padding-bottom: 160px;
+  text-align: center;
 }
 
 .projects {
@@ -275,7 +276,6 @@ body {
 }
 
 .project-image {
-  position: absolute;
   top: 0;
   left: 0;
   margin: 0;
@@ -306,6 +306,7 @@ body {
   box-shadow: 0 4px 16px rgba(249, 221, 121, 0.4);
   border-radius: 24px;
   transition: background-color 100ms, box-shadow 100ms;
+  margin-bottom: 10px;
 }
 
 .button:focus,
